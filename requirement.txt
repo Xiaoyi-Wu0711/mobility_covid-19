@@ -1,0 +1,13 @@
+
+python==3.8
+geopandas
+numpy
+matplotlib
+shapely
+requests
+geojson
+son
+hvplot
+holoviews
+functools
+mpl_toolkits
