@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <title>gdf_mar_20</title>
+    <layers>
+        <layer>
+            <datasource>
+                <type>GeoJSON</type>
+                <path>gdf_mar_20.geojson</path>
+            </datasource>
+            <layername>gdf_mar_20</layername>
+            <title/>
+            <variable_order>
+                <time_ids>
+                    <id>time 0</id>
+                </time_ids>
+                <var>raw_v_unts</var>
+                <var>
+                    income
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    total_pop
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    white_pop
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>bachelor</var>
+                <var>incom_erty</var>
+                <var>major_hite</var>
+                <var>tract_id</var>
+                <var>
+                    COORD_X
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    COORD_Y
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    LISA_I
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>LISA_CL</var>
+                <var>
+                    LISA_P
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+            </variable_order>
+            <custom_classifications/>
+            <weights_entries>
+                <weights>
+                    <title>mar_2020_queen</title>
+                    <default/>
+                    <meta_info>
+                        <weights_type>queen</weights_type>
+                        <order>1</order>
+                        <inc_lower_orders>false</inc_lower_orders>
+                        <path>geoda\mar_2020_queen.gal</path>
+                        <id_variable>tract_id</id_variable>
+                        <symmetry>symmetric</symmetry>
+                        <num_observations>1175</num_observations>
+                        <min_neighbors>0</min_neighbors>
+                        <max_neighbors>29</max_neighbors>
+                        <mean_neighbors>3.9608510638297871</mean_neighbors>
+                        <median_neighbors>4</median_neighbors>
+                        <non_zero_perc>0.33709370755998191</non_zero_perc>
+                    </meta_info>
+                </weights>
+            </weights_entries>
+            <default_vars>
+                <default_var>
+                    <name/>
+                    <time_id>time 0</time_id>
+                </default_var>
+                <default_var>
+                    <name/>
+                    <time_id>time 0</time_id>
+                </default_var>
+                <default_var>
+                    <name/>
+                    <time_id>time 0</time_id>
+                </default_var>
+                <default_var>
+                    <name/>
+                    <time_id>time 0</time_id>
+                </default_var>
+            </default_vars>
+        </layer>
+    </layers>
+</project>
