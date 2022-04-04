@@ -1,0 +1,8 @@
+,agg_visits,tract_id_ori,income_high_ori,majority_white_ori,tract_id_dest,income_high_dest,majority_white_dest
+0,4,36005050400,False,False,36005000400,True,False
+1,4,36005050400,False,False,36005022901,True,False
+2,4,36005050400,False,False,36005024600,False,True
+3,4,36005050400,False,False,36005042500,True,False
+4,22,36005050400,False,False,36005046202,True,False
+5,7,36005050400,False,False,36005050400,False,False
+6,10,36005050400,False,False,36005051600,True,True

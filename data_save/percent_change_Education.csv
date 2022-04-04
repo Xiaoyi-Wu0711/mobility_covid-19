@@ -1,3 +1,19 @@
-,All Other Miscellaneous Schools and Instruction ,Automobile Driving Schools ,"Colleges, Universities, and Professional Schools ",Cosmetology and Barber Schools ,Elementary and Secondary Schools ,Exam Preparation and Tutoring ,Fine Arts Schools ,Junior Colleges ,Language Schools ,Other Technical and Trade Schools ,Sports and Recreation Instruction 
-0,-0.4530120481927711,-0.556170628459785,-0.49346376937061726,-0.4090909090909091,-0.41151330255057167,-0.41227851260294485,-0.2956521739130435,-0.4968004653868528,-0.4567122866369368,-0.6727207977207977,-0.4167299225747685
-1,-0.5976505139500734,-0.776962582538518,-0.4885489659887199,-0.7692307692307693,-0.4869287532400813,-0.4250530785562633,-0.7160493827160493,-0.6959537572254335,-0.7653552221907727,-0.1926006528835691,-0.3797501301405518
+,All Other Miscellaneous Schools and Instruction ,Automobile Driving Schools ,"Colleges, Universities, and Professional Schools ",Cosmetology and Barber Schools ,Elementary and Secondary Schools ,Exam Preparation and Tutoring ,Fine Arts Schools ,Junior Colleges ,Language Schools ,Other Technical and Trade Schools ,Sports and Recreation Instruction ,
+2019-03-01 00:00:00-05:00,1245,3071,23102,22,291072,4007,115,1719,6503,2808,6587,
+2020-03-01 00:00:00-05:00,681,1363,11702,13,171292,2355,81,865,3533,919,3842,
+2021-03-01 00:00:00-05:00,274,304,5985,3,87885,1354,23,263,829,742,2383,
+2019-2020,-564,-1708,-11400,-9,-119780,-1652,-34,-854,-2970,-1889,-2745,
+2020-2021,-407,-1059,-5717,-10,-83407,-1001,-58,-602,-2704,-177,-1459,
+2019-2020,-45%,-56%,-49%,-41%,-41%,-41%,-30%,-50%,-46%,-67%,-42%,
+2020-2021,-60%,-78%,-49%,-77%,-49%,-43%,-72%,-70%,-77%,-19%,-38%,
+,,,,,,,,,,,,
+,"Colleges, Universities, and Professional Schools ",Elementary and Secondary Schools ,Technical School,,2019-2020,-11400,-119780,-15851,2019-2020,2020-2021,2019-2020,2020-2021
+,23102,291072,30700,,2020-2021,-5717,-83407,-7555,-11400,-5717,-0.493463769,-0.488548966
+,11702,171292,14849,,2019-2020,-0.493463769,-0.411513303,-0.516319218,-119780,-83407,-0.411513303,-0.486928753
+,5985,87885,7294,,2020-2021,-0.488548966,-0.486928753,-0.508788471,-15851,-7555,-0.516319218,-0.508788471
+2019-2020,-11400,-119780,-15851,,,,,,,,,
+2020-2021,-5717,-83407,-7555,,,,,,,,,
+2019-2020,-49%,-41%,-52%,,,2019-2020,2020-2021,2019-2020,2020-2021,,,
+2020-2021,-49%,-49%,-51%,,"Colleges, Universities, and Professional Schools ",-11400,-5717,-49%,-49%,,,
+,,,,,Elementary and Secondary Schools ,-119780,-83407,-41%,-49%,,,
+,,,,,Technical School,-15851,-7555,-52%,-51%,,,
