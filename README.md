@@ -6,17 +6,14 @@ This is the draft map which displays temporal changes of people's visit to recre
 
 
 ## Introduction
-As the most populous city in the United States with 8.8 million people distributed over 300.46 square miles (U.S Census Bureau, 2020), New York City has experienced widespread transmission and high infection rate since the first confirmed case on March 1st 2020. 
-At the end of March 2020, NYC arrived a peak of COVID-19 and became the pandemic epicenter (Cordes & Castro, 2020) with a weekly mean of 5132 diagnosed cases and 1,566 hospital admissions. 
-Identifying the spatio-temporal changes of human mobility pattern before, during and after the peak of COVID-19 is important to analyze COVID-19’s impact on individuals. 
-In addition, analyzing mobility changes under the contextual backgrounds suggests the heterogeneity of COVID-19’s impacts on different groups. 
+As the most populous city in the United States with 8.8 million people distributed over 300.46 square miles (U.S Census Bureau, 2020), New York City has experienced rapid and widespread transmission since the first confirmed case on March 1st 2020. At the end of March 2020, NYC arrived at the peak of COVID-19 and became the pandemic epicenter (Cordes \& Castro, 2020) with a weekly mean of 5132 diagnosed cases and 1,566 hospital admissions. On March 22, 2020, 'New York State on PAUSE' executive order was declared. It includes a new directive that all non-essential businesses statewide must close in-office personnel functions effective (New York State Official Website, 2020). Identifying the spatio-temporal changes of human mobility pattern before, during and after the outbreak of COVID-19 is important in order to analyze COVID-19’s impact on individuals. In addition, analyzing mobility changes under the contextual backgrounds suggests the heterogeneity of COVID-19’s impacts on different groups. 
 For example, high-income individuals may choose to decrease their visits to wholesale markets and restaurants and buy takeaways services to access necessary foods. 
 However, people with low- or moderate- incomes may have no choice but to leave home to buy food with higher risk of infection.
 
-Therefore, this objective of this research is to study the **spatio-temporal changes** of mobility pattern in NYC in March 2019, March 2020 and March 2021 and analyze the **social equity issues** caused by the pandemic. The research is aimed to answer following question:  
-1.	What is the spatial distribution of visit counts for different categories? 
-2.	What is the temporal change of mobility pattern before, during and after COVID-19?
-3.	How do the COVID-19 influence individual's travel behaviors in different contexts?
+Therefore, the objective of this paper is to study the spatio-temporal changes of mobility pattern in NYC in March 2019, March 2020 and March 2021 and analyze the social equity issues caused by the pandemic. The research is aimed to answer the following questions: 
+1. What is the spatial shifting pattern of visit counts to different business categories? 
+2. What is the temporal change of mobility pattern before, during and after COVID-19?
+3. How does COVID-19 influence individual's travel behaviors in different contexts?
 
 ## Data
 
@@ -45,7 +42,9 @@ Use `pip install -r requirements.txt` to install packages.
         <li>Script <a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/blob/main/scripts/1_data_process.ipynb"><code>/1_data_process.ipynb</code></a>: process data</li>
         <li>Script <a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/blob/main/scripts/2_demographic_merge.ipynb"><code>/2_demographic_merge.ipynb</code></a>: visualize the demographic background and mobility pattern in the study area</li>
         <li>Script <a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/blob/main/scripts/3_business_category_year.ipynb"><code>/3_business_category_year.ipynb</code></a>: analyze the temporal changes of people's vists to POIs in different categories </li>
+        <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/scripts/4_ori_dest_pair.ipynb"><code>/4_ori_dest_pair.ipynb</code></a>: construct original-destination matrix and calculate the flow volume change in different contexts during COVID-19</li>
         <li>Script <a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/blob/main/scripts/utils.py"><code>/utils.py</code></a>: functions commonly used for above folders</li>
+
 </ul>
 <li><a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/tree/main/fig"><code>/fig</code></a>:saved figures</li>
 <li><a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/tree/main/doc"><code>/doc</code></a>: slides and reports</li>
