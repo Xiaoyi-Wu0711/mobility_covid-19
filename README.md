@@ -61,9 +61,10 @@ Use `pip install -r requirements.txt` to install packages.
         <li>Script <a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/blob/main/scripts/1_data_process.ipynb"><code>/1_data_process.ipynb</code></a>: process data</li>
         <li>Script <a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/blob/main/scripts/2_demographic_merge.ipynb"><code>/2_demographic_merge.ipynb</code></a>: visualize the demographic background and mobility pattern in the study area</li>
         <li>Script <a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/blob/main/scripts/3_business_category_year.ipynb"><code>/3_business_category_year.ipynb</code></a>: analyze the temporal changes of people's vists to POIs in different categories </li>
-        <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/scripts/4_ori_dest_pair.ipynb"><code>/4_ori_dest_pair.ipynb</code></a>: construct original-destination matrix and calculate the flow volume change in different contexts during COVID-19</li>
-        <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/scripts/4_ori_dest_pair.ipynb"><code>/4_ori_dest_pair.ipynb</code></a>: construct original-destination matrix and calculate the flow volume change in different contexts during COVID-19</li>
-
+        <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/scripts/4_ori_dest_pair.ipynb"><code>/4_ori_dest_pair.ipynb</code></a>: construct original-destination matrix and calculate the flow volume change in income contexts during COVID-19</li>
+        <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/scripts/5_ori_dist_category.ipynb"><code>/5_ori_dist_category.ipynb</code></a>: calculate the flow volume change to necessary goods/service in income contexts during COVID-19</li>
+        <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/scripts/6_js__visit_count_business.ipynb"><code>/6_js__visit_count_business.ipynb</code></a>: data preparing for dashboard visualization</li>
+        <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/scripts/7_regression.ipynb.ipynb"><code>/7_regression.ipynb.ipynb</code></a>: data preparing for coefficient analysis</li>
 </ul>
 <li><a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/tree/main/fig"><code>/fig</code></a>:saved figures</li>
 <li><a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/tree/main/doc"><code>/doc</code></a>: slides and reports</li>
