@@ -13,23 +13,46 @@
                 <time_ids>
                     <id>time 0</id>
                 </time_ids>
-                <var>raw_visit_counts</var>
-                <var>
-                    income
-                    <displayed_decimals>6</displayed_decimals>
-                </var>
-                <var>
-                    total_pop
-                    <displayed_decimals>6</displayed_decimals>
-                </var>
-                <var>
-                    white_pop
-                    <displayed_decimals>6</displayed_decimals>
-                </var>
-                <var>bachelor</var>
-                <var>income_below_poverty</var>
-                <var>majority_white</var>
+                <var>raw_v_unts</var>
                 <var>tract_id</var>
+                <var>incom_tile</var>
+                <var>
+                    pctWhite
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    pctBlack
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    pctIndian
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    pctAsian
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    pctHi_anic
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    pctVacant
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    pctBa_lors
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    pctPoverty
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    avera__car
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>CL</var>
                 <var>
                     COORD_X
                     <displayed_decimals>6</displayed_decimals>
@@ -38,45 +61,35 @@
                     COORD_Y
                     <displayed_decimals>6</displayed_decimals>
                 </var>
-                <var>
-                    LISA_I
-                    <displayed_decimals>6</displayed_decimals>
-                </var>
-                <var>LISA_CL</var>
-                <var>
-                    LISA_P
-                    <displayed_decimals>6</displayed_decimals>
-                </var>
-                <var>SELECTED</var>
             </variable_order>
             <custom_classifications/>
             <weights_entries>
                 <weights>
-                    <title>gdf_mar_21_queen</title>
+                    <title>gdf_mar_21</title>
                     <default/>
                     <meta_info>
                         <weights_type>queen</weights_type>
                         <order>1</order>
                         <inc_lower_orders>false</inc_lower_orders>
-                        <path>gdf_mar_21_queen.gal</path>
+                        <path>geoda\gdf_mar_21.gal</path>
                         <id_variable>tract_id</id_variable>
                         <symmetry>symmetric</symmetry>
-                        <num_observations>1172</num_observations>
+                        <num_observations>1143</num_observations>
                         <min_neighbors>0</min_neighbors>
-                        <max_neighbors>29</max_neighbors>
-                        <mean_neighbors>3.9692832764505122</mean_neighbors>
+                        <max_neighbors>11</max_neighbors>
+                        <mean_neighbors>3.8022747156605425</mean_neighbors>
                         <median_neighbors>4</median_neighbors>
-                        <non_zero_perc>0.33867604747871261</non_zero_perc>
+                        <non_zero_perc>0.33265745543836767</non_zero_perc>
                     </meta_info>
                 </weights>
             </weights_entries>
             <default_vars>
                 <default_var>
-                    <name>raw_visit_counts</name>
+                    <name>avera__car</name>
                     <time_id>time 0</time_id>
                 </default_var>
                 <default_var>
-                    <name/>
+                    <name>raw_v_unts</name>
                     <time_id>time 0</time_id>
                 </default_var>
                 <default_var>

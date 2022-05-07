@@ -1,0 +1,136 @@
+>>04/19/22 14:58:07
+REGRESSION
+----------
+SUMMARY OF OUTPUT: ORDINARY LEAST SQUARES ESTIMATION
+Data set            :  gdf_total
+Dependent Variable  :   nor_20_19  Number of Observations: 1155
+Mean dependent var  :  -0.0547136  Number of Variables   :    8
+S.D. dependent var  :     5.13723  Degrees of Freedom    : 1147 
+
+R-squared           :    0.004158  F-statistic           :    0.684127
+Adjusted R-squared  :   -0.001920  Prob(F-statistic)     :    0.685655
+Sum squared residual:     30355.1  Log likelihood        :    -3526.64
+Sigma-square        :     26.4648  Akaike info criterion :     7069.29
+S.E. of regression  :     5.14439  Schwarz criterion     :      7109.7
+Sigma-square ML     :     26.2814
+S.E of regression ML:     5.12654
+
+-----------------------------------------------------------------------------
+       Variable      Coefficient      Std.Error    t-Statistic   Probability
+-----------------------------------------------------------------------------
+          CONSTANT      0.277768        0.89729       0.309563     0.75691
+          MedHHInc   3.68916e-06    7.85743e-06       0.469512     0.63878
+           MedRent  -0.000436881    0.000518186      -0.843097     0.39934
+       average_car     0.0244078       0.413781      0.0589872     0.95292
+      pctBachelors      -2.86623        8.76584      -0.326977     0.74372
+        pctPoverty       1.30897        1.66816        0.78468     0.43281
+         pctVacant      -0.72362        2.50671      -0.288673     0.77287
+          pctWhite     -0.211947       0.616096      -0.344016     0.73089
+-----------------------------------------------------------------------------
+
+REGRESSION DIAGNOSTICS  
+MULTICOLLINEARITY CONDITION NUMBER   18.055173
+TEST ON NORMALITY OF ERRORS
+TEST                  DF           VALUE             PROB
+Jarque-Bera            2        58945194.7126          0.00000
+
+DIAGNOSTICS FOR HETEROSKEDASTICITY  
+RANDOM COEFFICIENTS
+TEST                  DF           VALUE             PROB
+Breusch-Pagan test     7          1339.4178          0.00000
+Koenker-Bassett test   7             2.4204          0.93297
+============================== END OF REPORT ================================
+
+
+
+>>04/19/22 14:06:14
+REGRESSION
+----------
+SUMMARY OF OUTPUT: ORDINARY LEAST SQUARES ESTIMATION
+Data set            :  gdf_total
+Dependent Variable  :   nor_20_19  Number of Observations: 1155
+Mean dependent var  :  -0.0547136  Number of Variables   :    8
+S.D. dependent var  :     5.13723  Degrees of Freedom    : 1147 
+
+R-squared           :    0.004158  F-statistic           :    0.684127
+Adjusted R-squared  :   -0.001920  Prob(F-statistic)     :    0.685655
+Sum squared residual:     30355.1  Log likelihood        :    -3526.64
+Sigma-square        :     26.4648  Akaike info criterion :     7069.29
+S.E. of regression  :     5.14439  Schwarz criterion     :      7109.7
+Sigma-square ML     :     26.2814
+S.E of regression ML:     5.12654
+
+-----------------------------------------------------------------------------
+       Variable      Coefficient      Std.Error    t-Statistic   Probability
+-----------------------------------------------------------------------------
+          CONSTANT      0.277768        0.89729       0.309563     0.75691
+          MedHHInc   3.68916e-06    7.85743e-06       0.469512     0.63878
+           MedRent  -0.000436881    0.000518186      -0.843097     0.39934
+       average_car     0.0244078       0.413781      0.0589872     0.95292
+      pctBachelors      -2.86623        8.76584      -0.326977     0.74372
+        pctPoverty       1.30897        1.66816        0.78468     0.43281
+         pctVacant      -0.72362        2.50671      -0.288673     0.77287
+          pctWhite     -0.211947       0.616096      -0.344016     0.73089
+-----------------------------------------------------------------------------
+
+REGRESSION DIAGNOSTICS  
+MULTICOLLINEARITY CONDITION NUMBER   18.055173
+TEST ON NORMALITY OF ERRORS
+TEST                  DF           VALUE             PROB
+Jarque-Bera            2        58945194.7126          0.00000
+
+DIAGNOSTICS FOR HETEROSKEDASTICITY  
+RANDOM COEFFICIENTS
+TEST                  DF           VALUE             PROB
+Breusch-Pagan test     7          1339.4178          0.00000
+Koenker-Bassett test   7             2.4204          0.93297
+============================== END OF REPORT ================================
+
+
+
+>>04/19/22 13:36:19
+REGRESSION
+----------
+SUMMARY OF OUTPUT: ORDINARY LEAST SQUARES ESTIMATION
+Data set            :  gdf_total
+Dependent Variable  :   nor_20_19  Number of Observations: 1155
+Mean dependent var  :  -0.0547136  Number of Variables   :    9
+S.D. dependent var  :     5.13723  Degrees of Freedom    : 1146 
+
+R-squared           :    0.004507  F-statistic           :    0.648574
+Adjusted R-squared  :   -0.002442  Prob(F-statistic)     :    0.737041
+Sum squared residual:     30344.4  Log likelihood        :    -3526.44
+Sigma-square        :     26.4786  Akaike info criterion :     7070.88
+S.E. of regression  :     5.14573  Schwarz criterion     :     7116.35
+Sigma-square ML     :     26.2722
+S.E of regression ML:     5.12564
+
+-----------------------------------------------------------------------------
+       Variable      Coefficient      Std.Error    t-Statistic   Probability
+-----------------------------------------------------------------------------
+          CONSTANT      0.222477       0.901748       0.246717     0.80518
+          MedHHInc   3.99917e-06    7.87466e-06       0.507853     0.61165
+           MedRent  -0.000435848    0.000518324       -0.84088     0.40059
+       average_car     0.0243499       0.413889      0.0588319     0.95294
+      pctBachelors      -3.57269        8.83861      -0.404214     0.68611
+         pctIndian        11.358        17.9096       0.634187     0.52608
+        pctPoverty       1.29115        1.66883       0.773688     0.43927
+         pctVacant     -0.649848        2.51006      -0.258898     0.79578
+          pctWhite     -0.219217       0.616363      -0.355661     0.72214
+-----------------------------------------------------------------------------
+
+REGRESSION DIAGNOSTICS  
+MULTICOLLINEARITY CONDITION NUMBER   18.327113
+TEST ON NORMALITY OF ERRORS
+TEST                  DF           VALUE             PROB
+Jarque-Bera            2        58961534.4417          0.00000
+
+DIAGNOSTICS FOR HETEROSKEDASTICITY  
+RANDOM COEFFICIENTS
+TEST                  DF           VALUE             PROB
+Breusch-Pagan test     8          1340.4833          0.00000
+Koenker-Bassett test   8             2.4220          0.96527
+============================== END OF REPORT ================================
+
+
+

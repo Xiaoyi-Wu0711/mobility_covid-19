@@ -1,0 +1,252 @@
+------
+Method:	KMeans
+Number of clusters:	3
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+
+Cluster centers:
+|  |20_19   |
+|--|--------|
+|C1|-1228.13|
+|C2|-32629.5|
+|C3|-111101 |
+
+The total sum of squares:	1183
+Within-cluster sum of squares:
+|  |Within cluster S.S.|
+|--|-------------------|
+|C1|107.413            |
+|C2|50.3482            |
+|C3|47.6066            |
+
+The total within-cluster sum of squares:	205.368
+The between-cluster sum of squares:	977.632
+The ratio of between to total sum of squares:	0.826401
+
+------
+Method:	KMeans
+Number of clusters:	3
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+
+Cluster centers:
+|  |MedHHInc    |
+|--|------------|
+|C1|56021.9     |
+|C2|131796      |
+|C3|-6.66667e+08|
+
+The total sum of squares:	1183
+Within-cluster sum of squares:
+|  |Within cluster S.S.|
+|--|-------------------|
+|C1|2.7134e-05         |
+|C2|2.21928e-05        |
+|C3|2.7689e-28         |
+
+The total within-cluster sum of squares:	4.93268e-05
+The between-cluster sum of squares:	1183
+The ratio of between to total sum of squares:	1
+
+------
+Method:	KMeans
+Number of clusters:	3
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+
+Cluster centers:
+|  |pctBachelors|
+|--|------------|
+|C1|0.00670373  |
+|C2|0.0238087   |
+|C3|0.0621899   |
+
+The total sum of squares:	1183
+Within-cluster sum of squares:
+|  |Within cluster S.S.|
+|--|-------------------|
+|C1|60.4826            |
+|C2|73.786             |
+|C3|81.8376            |
+
+The total within-cluster sum of squares:	216.106
+The between-cluster sum of squares:	966.894
+The ratio of between to total sum of squares:	0.817324
+
+------
+Method:	KMeans
+Number of clusters:	3
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+
+Cluster centers:
+|  |pctVacant|
+|--|---------|
+|C1|0.0584015|
+|C2|0.162684 |
+|C3|0.517402 |
+
+The total sum of squares:	1183
+Within-cluster sum of squares:
+|  |Within cluster S.S.|
+|--|-------------------|
+|C1|124.527            |
+|C2|109.07             |
+|C3|69.2302            |
+
+The total within-cluster sum of squares:	302.827
+The between-cluster sum of squares:	880.173
+The ratio of between to total sum of squares:	0.744017
+
+------
+Method:	KMeans
+Number of clusters:	3
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+
+Cluster centers:
+|  |pctPoverty|
+|--|----------|
+|C1|0.0765278 |
+|C2|0.217415  |
+|C3|0.404828  |
+
+The total sum of squares:	1183
+Within-cluster sum of squares:
+|  |Within cluster S.S.|
+|--|-------------------|
+|C1|57.2195            |
+|C2|52.0958            |
+|C3|76.9148            |
+
+The total within-cluster sum of squares:	186.23
+The between-cluster sum of squares:	996.77
+The ratio of between to total sum of squares:	0.842578
+
+------
+Method:	KMeans
+Number of clusters:	3
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+
+Cluster centers:
+|  |pctAsian |
+|--|---------|
+|C1|0.0478262|
+|C2|0.233843 |
+|C3|0.543419 |
+
+The total sum of squares:	1183
+Within-cluster sum of squares:
+|  |Within cluster S.S.|
+|--|-------------------|
+|C1|56.1506            |
+|C2|50.2339            |
+|C3|63.3798            |
+
+The total within-cluster sum of squares:	169.764
+The between-cluster sum of squares:	1013.24
+The ratio of between to total sum of squares:	0.856497
+
+------
+Method:	KMeans
+Number of clusters:	3
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+
+Cluster centers:
+|  |pctAsian |
+|--|---------|
+|C1|0.0478262|
+|C2|0.233843 |
+|C3|0.543419 |
+
+The total sum of squares:	1183
+Within-cluster sum of squares:
+|  |Within cluster S.S.|
+|--|-------------------|
+|C1|56.1506            |
+|C2|50.2339            |
+|C3|63.3798            |
+
+The total within-cluster sum of squares:	169.764
+The between-cluster sum of squares:	1013.24
+The ratio of between to total sum of squares:	0.856497
+
+------
+Method:	KMeans
+Number of clusters:	3
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+
+Cluster centers:
+|  |pctIndian  |
+|--|-----------|
+|C1|0.000929919|
+|C2|0.0392642  |
+|C3|0.229508   |
+
+The total sum of squares:	1183
+Within-cluster sum of squares:
+|  |Within cluster S.S.|
+|--|-------------------|
+|C1|118.234            |
+|C2|95.5595            |
+|C3|0                  |
+
+The total within-cluster sum of squares:	213.793
+The between-cluster sum of squares:	969.207
+The ratio of between to total sum of squares:	0.819279
+
+------
+Method:	KMeans
+Number of clusters:	3
+Initialization method:	KMeans++
+Initialization re-runs:	150
+Maximum iterations:	1000
+Transformation:	Standardize (Z)
+Distance function:	Euclidean
+
+Cluster centers:
+|  |average_car|
+|--|-----------|
+|C1|0.312598   |
+|C2|0.79506    |
+|C3|1.47974    |
+
+The total sum of squares:	1183
+Within-cluster sum of squares:
+|  |Within cluster S.S.|
+|--|-------------------|
+|C1|56.7261            |
+|C2|41.3427            |
+|C3|48.5825            |
+
+The total within-cluster sum of squares:	146.651
+The between-cluster sum of squares:	1036.35
+The ratio of between to total sum of squares:	0.876034
+

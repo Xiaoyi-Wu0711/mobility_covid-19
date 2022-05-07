@@ -1,0 +1,47 @@
+>>05/05/22 17:13:27
+REGRESSION
+----------
+SUMMARY OF OUTPUT: ORDINARY LEAST SQUARES ESTIMATION
+Data set            :  visit_count_inflow
+Dependent Variable  :       20_19  Number of Observations: 1140
+Mean dependent var  :    -4739.08  Number of Variables   :   10
+S.D. dependent var  :     15655.5  Degrees of Freedom    : 1130 
+
+R-squared           :    0.340469  F-statistic           :     64.8154
+Adjusted R-squared  :    0.335216  Prob(F-statistic)     :           0
+Sum squared residual: 1.84279e+11  Log likelihood        :    -12391.1
+Sigma-square        : 1.63079e+08  Akaike info criterion :     24802.2
+S.E. of regression  :     12770.2  Schwarz criterion     :     24852.6
+Sigma-square ML     : 1.61649e+08
+S.E of regression ML:     12714.1
+
+-----------------------------------------------------------------------------
+       Variable      Coefficient      Std.Error    t-Statistic   Probability
+-----------------------------------------------------------------------------
+          CONSTANT       14086.1        2624.61        5.36694     0.00000
+          pctWhite        2543.8        2359.17        1.07826     0.28115
+          pctBlack      -654.387         2396.5       -0.27306     0.78485
+         pctIndian      -1583.32        65219.7     -0.0242767     0.98036
+       average_car       6385.25        1049.79        6.08242     0.00000
+          pctAsian      -7629.32        3124.24       -2.44198     0.01476
+        pctPoverty      -21036.9        5268.12       -3.99324     0.00007
+         pctVacant        -64113        6304.49       -10.1694     0.00000
+      pctBachelors       -150572          25409       -5.92591     0.00000
+          MedHHInc      -0.14353      0.0165395       -8.67796     0.00000
+-----------------------------------------------------------------------------
+
+REGRESSION DIAGNOSTICS  
+MULTICOLLINEARITY CONDITION NUMBER   19.347055
+TEST ON NORMALITY OF ERRORS
+TEST                  DF           VALUE             PROB
+Jarque-Bera            2         75668.7060          0.00000
+
+DIAGNOSTICS FOR HETEROSKEDASTICITY  
+RANDOM COEFFICIENTS
+TEST                  DF           VALUE             PROB
+Breusch-Pagan test     9          2526.4293          0.00000
+Koenker-Bassett test   9           123.4563          0.00000
+============================== END OF REPORT ================================
+
+
+

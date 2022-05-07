@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+    <title>visit_count_inflow</title>
+    <layers>
+        <layer>
+            <datasource>
+                <type>GeoJSON</type>
+                <path>regression\visit_count_inflow.geojson</path>
+            </datasource>
+            <layername>visit_count_inflow</layername>
+            <title/>
+            <variable_order>
+                <time_ids>
+                    <id>time 0</id>
+                </time_ids>
+                <var>tract_id</var>
+                <var>borough</var>
+                <var>mar_19</var>
+                <var>mar_20</var>
+                <var>mar_21</var>
+                <var>20_19</var>
+                <var>21_20</var>
+                <var>
+                    nor_20_19
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    nor_21_20
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    average_car
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    pctWhite
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    pctBlack
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    pctIndian
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    pctAsian
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    pctHispanic
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    pctPoverty
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    pctVacant
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    pctBachelors
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>MedHHInc</var>
+                <var>MedRent</var>
+                <var>CL</var>
+                <var>proportion of Asian</var>
+                <var>poverty</var>
+                <var>vacant</var>
+                <var>bachelor</var>
+                <var>
+                    CATEGORIES
+                    <meta_data>
+                        <categories>
+                            <category1>1 (1090) </category1>
+                            <category2>2 (79) </category2>
+                            <category3>3 (15) </category3>
+                        </categories>
+                        <classification_type>Unique Values</classification_type>
+                        <number_of_categories>3</number_of_categories>
+                        <original_variable>CL</original_variable>
+                    </meta_data>
+                </var>
+                <var>
+                    COORD_X
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+                <var>
+                    COORD_Y
+                    <displayed_decimals>6</displayed_decimals>
+                </var>
+            </variable_order>
+            <custom_classifications/>
+            <weights_entries/>
+            <default_vars>
+                <default_var>
+                    <name/>
+                    <time_id>time 0</time_id>
+                </default_var>
+                <default_var>
+                    <name/>
+                    <time_id>time 0</time_id>
+                </default_var>
+                <default_var>
+                    <name/>
+                    <time_id>time 0</time_id>
+                </default_var>
+                <default_var>
+                    <name/>
+                    <time_id>time 0</time_id>
+                </default_var>
+            </default_vars>
+        </layer>
+    </layers>
+</project>

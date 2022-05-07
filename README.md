@@ -2,7 +2,11 @@
 Xiaoyi Wu
 
 ### Interative map: https://xiaoyi-wu0711.github.io/mobility_web/
-This is the draft map which displays temporal changes of people's visit to recreation places in NYC. In the following development, I will integrate 1) total visit count to all places in NYC in different year; 2) mobility changes with socio-economic factors to the map.
+This is the draft map which displays temporal changes of people's visit counts to different business type in March 2019, March 2020 and March 2021. 
+There I display: 
+- the spatial distribution of human mobility
+- the temporal changes of human mobility 
+- the distribution of socio-economic factors in NYC
 
 
 ## Introduction
@@ -29,9 +33,24 @@ Therefore, the objective of this paper is to study the spatio-temporal changes o
 - Analyzing the spatial distribution of human mobility 
 - Comparing the spatial pattern of human mobility before/during/after COVID-19
 - Analyzing people's mobility pattern and access to necessary services in different contexts
+## Conclusion
+
+1. Manhattan Borough was found the most popular places all the time, even it experience largest
+degree in visit counts during the pandemic. Low-income people suffer larger economic loss and higher risk of
+COVID-19 transmission due to mobility movement, which exposes the social inequity issues in NYC
+2. There is disparity in the human mobility during the COVID-19. 
+   1. People tend
+   to decrease their visits to low-income areas, which indicates the business in these neighborhoods were
+   hit hardest during the first month of the COVID-19 by correlation analysis. 
+   2. Low-income groups tend to have more visits to low-income and low education attainment
+   areas where were found the most confirmed virus cases in March 2020. 
+   3. High-income groups have more visits to Lower Manhattan, Staten Island. There was a significant
+increase in Staten Island and outskirt of southeast shore of Brooklyn and north end of Queens Borough.
+Most of these places are high-income, high education attainment and high vacancy rate areas. They
+were also found to have less confirmed case rate in the first month of COVID-19.
 
 ## Expected Results  
- The final deliverable will be a research paper.
+ The final deliverable will be a research paper and a dashboard.
  
 ## Folder Organization
 Use `pip install -r requirements.txt` to install packages.
@@ -43,7 +62,7 @@ Use `pip install -r requirements.txt` to install packages.
         <li>Script <a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/blob/main/scripts/2_demographic_merge.ipynb"><code>/2_demographic_merge.ipynb</code></a>: visualize the demographic background and mobility pattern in the study area</li>
         <li>Script <a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/blob/main/scripts/3_business_category_year.ipynb"><code>/3_business_category_year.ipynb</code></a>: analyze the temporal changes of people's vists to POIs in different categories </li>
         <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/scripts/4_ori_dest_pair.ipynb"><code>/4_ori_dest_pair.ipynb</code></a>: construct original-destination matrix and calculate the flow volume change in different contexts during COVID-19</li>
-        <li>Script <a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/blob/main/scripts/utils.py"><code>/utils.py</code></a>: functions commonly used for above folders</li>
+        <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/scripts/4_ori_dest_pair.ipynb"><code>/4_ori_dest_pair.ipynb</code></a>: construct original-destination matrix and calculate the flow volume change in different contexts during COVID-19</li>
 
 </ul>
 <li><a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/tree/main/fig"><code>/fig</code></a>:saved figures</li>
