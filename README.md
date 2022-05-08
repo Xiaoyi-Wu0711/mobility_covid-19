@@ -64,10 +64,13 @@ Use `pip install -r requirements.txt` to install packages.
         <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/scripts/4_ori_dest_pair.ipynb"><code>/4_ori_dest_pair.ipynb</code></a>: construct original-destination matrix and calculate the flow volume change in income contexts during COVID-19</li>
         <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/scripts/5_ori_dist_category.ipynb"><code>/5_ori_dist_category.ipynb</code></a>: calculate the flow volume change to necessary goods/service in income contexts during COVID-19</li>
         <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/scripts/6_js__visit_count_business.ipynb"><code>/6_js__visit_count_business.ipynb</code></a>: data preparing for dashboard visualization</li>
-        <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/scripts/7_regression.ipynb.ipynb"><code>/7_regression.ipynb.ipynb</code></a>: data preparing for coefficient analysis</li>
+        <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/scripts/7_regression.ipynb"><code>/7_regression.ipynb.ipynb</code></a>: data preparing for coefficient analysis</li>
 </ul>
-<li><a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/tree/main/fig"><code>/fig</code></a>:saved figures</li>
-<li><a href="https://github.com/CPLN-680-Spring-2022/XiaoyiWu-Mobility/tree/main/doc"><code>/doc</code></a>: slides and reports</li>
+<li><a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/fig/"><code>/fig</code></a>:saved figures</li>
+<li><a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/doc/"><code>/doc</code></a>: slides and reports</li>
+<ul>
+    <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/doc/report.pdf"><code>/report.pdf/code></a>: final report</li>
 
+</ul>
 </p>
 
