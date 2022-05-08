@@ -69,7 +69,7 @@ Use `pip install -r requirements.txt` to install packages.
 <li><a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/fig/"><code>/fig</code></a>:saved figures</li>
 <li><a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/doc/"><code>/doc</code></a>: slides and reports</li>
 <ul>
-    <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/doc/report.pdf"><code>/report.pdf/code></a>: final report</li>
+    <li>Script <a href="https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/doc/report.pdf"><code>/report.pdf></a>: final report</li>
 
 </ul>
 </p>
