@@ -8,6 +8,8 @@ There I display:
 - the temporal changes of human mobility 
 - the distribution of socio-economic factors in NYC
 
+### Report: https://github.com/Xiaoyi-Wu0711/mobility_covid-19/blob/main/doc/report.pdf
+
 
 ## Introduction
 As the most populous city in the United States with 8.8 million people distributed over 300.46 square miles (U.S Census Bureau, 2020), New York City has experienced rapid and widespread transmission since the first confirmed case on March 1st 2020. At the end of March 2020, NYC arrived at the peak of COVID-19 and became the pandemic epicenter (Cordes \& Castro, 2020) with a weekly mean of 5132 diagnosed cases and 1,566 hospital admissions. On March 22, 2020, 'New York State on PAUSE' executive order was declared. It includes a new directive that all non-essential businesses statewide must close in-office personnel functions effective (New York State Official Website, 2020). Identifying the spatio-temporal changes of human mobility pattern before, during and after the outbreak of COVID-19 is important in order to analyze COVID-19’s impact on individuals. In addition, analyzing mobility changes under the contextual backgrounds suggests the heterogeneity of COVID-19’s impacts on different groups. 
