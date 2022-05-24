@@ -42,7 +42,7 @@ visits to necessary goods and services including transportation, education, heal
 retail(Table 2), and food saw a significant decrease.
 
 2. Manhattan Borough was found the most popular place all the time, even it experienced largest
-decrease in visit counts (Figure 3) during the outbreak of COVID-19.
+decrease in visit counts during the outbreak of COVID-19.
 
 2. There is disparity in the human mobility during the COVID-19. Bottom-quartile income people suffer higher economic loss and higher risk of
 COVID-19 transmission due to mobility, which exposes the social inequity issues in NYC.
