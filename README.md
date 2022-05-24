@@ -37,19 +37,31 @@ Therefore, the objective of this paper is to study the spatio-temporal changes o
 - Analyzing people's mobility pattern and access to necessary services in different contexts
 ## Conclusion
 
-1. Manhattan Borough was found the most popular places all the time, even it experience largest
-degree in visit counts during the pandemic. Low-income people suffer larger economic loss and higher risk of
-COVID-19 transmission due to mobility movement, which exposes the social inequity issues in NYC
-2. There is disparity in the human mobility during the COVID-19. 
+1. There is a general reduction trend in human mobility during the pandemic and this decreasing trend was maintained through to the March of 2021(Figure 1). Particularly,
+visits to necessary goods and services including transportation, education, health care, wholesale and
+retail(Table 2), and food saw a significant decrease.
+
+2. Manhattan Borough was found the most popular place all the time, even it experienced largest
+decrease in visit counts (Figure 3) during the outbreak of COVID-19.
+
+2. There is disparity in the human mobility during the COVID-19. Bottom-quartile income people suffer higher economic loss and higher risk of
+COVID-19 transmission due to mobility, which exposes the social inequity issues in NYC.
    1. People tend
-   to decrease their visits to low-income areas, which indicates the business in these neighborhoods were
-   hit hardest during the first month of the COVID-19 by correlation analysis. 
-   2. Low-income groups tend to have more visits to low-income and low education attainment
+   to decrease their visits to low-income areas in large degree such as Upper Manhattan, which indicates the business in these neighborhoods were
+   hit hardest during the first month of the COVID-19. 
+   2. Bottom-income groups tend to have more visits to low-income and low education attainment
    areas where were found the most confirmed virus cases in March 2020. 
-   3. High-income groups have more visits to Lower Manhattan, Staten Island. There was a significant
-increase in Staten Island and outskirt of southeast shore of Brooklyn and north end of Queens Borough.
-Most of these places are high-income, high education attainment and high vacancy rate areas. They
-were also found to have less confirmed case rate in the first month of COVID-19.
+   3. Top-income groups have more visits to Lower Manhattan, Staten Island, which are high-income and high education attainment areas. There was even a significant increase
+in Staten Island and outskirt of southeast shore of Brooklyn and north end of Queens Borough in
+March 2020. Since these places have high vacancy ratewith low confirmed case
+rate in the first month(Buchanan et al., 2020), this indicates top-income groups migrated to
+outskirt of the city during the outbreak of COVID-19.
+   4. bottom-income groups of people was found have more smaller decrease degree of visit
+counts during the outbreak of COVID-19 and larger decrease degree after COVID-19 compared to
+top-income groups. Particularly, bottom-income people have smaller decrease to visit count of food,
+health care, wholesale and retail, transportation and education POIs in the first month of COVID-19.
+This indicates bottom-income people need to leave home to purchase necessary goods, services and
+work to secure thier daily living.
 
 ## Expected Results  
  The final deliverable will be a research paper and a dashboard.
