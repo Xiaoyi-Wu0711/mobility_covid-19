@@ -12,16 +12,16 @@ There I display:
 
 
 ## Abstract
-### Background:
+#### Background:
 Human mobility is critical to understand, evaluate, predict and control the transmission of COVID-19.
 
-### Research Gap: 
+#### Research Gap: 
 Based on previous work, this study built a comprehensive understanding of COVID-19’s influence on human mobility and social equity at micro level with cell-phone tracked Point of Interest data, and provided a quantitive evidence of underlying disparity in New York emergency response system.
 
-### Methods:
+#### Methods:
 Spatiotemporal analysis of human mobility from the pre-outbreak of COVID-19 to reopening phrases in New York City was conducted to detect the uneven changes of travel behaviors and travel purpose under different education, income, racial and age contexts. Sets of time-varying linear regression models were generated to examine the varied association between social-economic factors, COVID-19 cases and human mobility at different pandemic stages. 
 
-### Results
+#### Results
 Results revealed the consistency of COVID-19’s impact on travel reduction and the heterogeneity on individual response in different social-economic groups. For example, during the outbreak of COVID-19, significant decrease in visit counts was observed cross the city. However, people from bottom-quartile household income areas suffered higher transmission risk with the less decreasing degree in human mobility to gain necessary needs and service, while people from top-quartile income groups were exposed to lower transmission risk with increasing trend to move to suburban areas.
 
 ## Data
@@ -38,7 +38,7 @@ Results revealed the consistency of COVID-19’s impact on travel reduction and 
 - Analyzing the spatial distribution of human mobility 
 - Comparing the spatial pattern of human mobility before/during/after COVID-19
 - Analyzing people's mobility pattern and access to necessary services in different contexts
-- 
+  
 ## Conclusion
 1. There is a general reduction trend in human mobility during the pandemic and this decreasing trend was maintained through to the March of 2021(Figure 1). Particularly,
 visits to necessary goods and services including transportation, education, health care, wholesale and
